@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VCS Field Reporter</string>
+    <string name="started">Started:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="elapsed_time">Elapsed Time:</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="gps_enabled">GPS Enabled</string>
+    <string name="gps_disabled">GPS Disabled</string>
+    <string name="new_report">New Report</string>
+    <string name="map">Map</string>
+    <string name="report_start">Report Start</string>
+    <string name="report_started_at_format">Report started at %s</string>
+    <string name="report_finish">Report Finish</string>
+    <string name="report_finished_at_format">Report finished at %s</string>
+</resources>
