@@ -31,8 +31,4 @@ Android features used in this app:
     See the License for the specific language governing permissions and
     limitations under the License.
 
-![alt tag](https://raw.githubusercontent.com/donnemartin/fieldreporter/master/FieldReporter/src/main/res/raw/ReportsList.png)
-
-![alt tag](https://raw.githubusercontent.com/donnemartin/fieldreporter/master/FieldReporter/src/main/res/raw/Report.png)
-
-![alt tag](https://raw.githubusercontent.com/donnemartin/fieldreporter/master/FieldReporter/src/main/res/raw/ReportMap.png)
+<img src="https://raw.githubusercontent.com/donnemartin/fieldreporter/master/FieldReporter/src/main/res/raw/ReportsList.png" width="275px" /> <img src="https://raw.githubusercontent.com/donnemartin/fieldreporter/master/FieldReporter/src/main/res/raw/Report.png" width="275px" /> <img src="https://raw.githubusercontent.com/donnemartin/fieldreporter/master/FieldReporter/src/main/res/raw/ReportMap.png" width="275px" />
